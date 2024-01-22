@@ -1,0 +1,28 @@
+.icons{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+
+.container .icons a{
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+.icons a i{
+    padding-top: 10px;
+    width: 2em;
+    height: 2em;
+    background-color: #49009b;
+    color: #fff;
+    border: 2px solid #49009b;
+    border-radius: 100%;
+    transition: 2s;
+} 
+
+/* .icons a i:hover{
+    color: #49009b;
+    background-color: #fff;
+    transform: rotateX(360deg);
+} */

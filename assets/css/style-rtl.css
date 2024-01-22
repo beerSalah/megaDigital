@@ -1,0 +1,28 @@
+body {
+  text-align: start;
+}
+
+.navbar-area.navbar-area-2 .nav-container .navbar-collapse .navbar-nav li a {
+  margin-left: 20px;
+}
+
+.navbar-area.navbar-area-2 .nav-container .logo a {
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.navbar-area.navbar-area-2 .nav-right-part:before {
+  right: -10px;
+}
+
+.footer-widget ul li {
+  text-align: right;
+}
+
+.section-title h2 {
+  text-align: center;
+}
+
+.single-dmarket-wrap .media .wrap-details h5 {
+  text-align: center;
+}
